@@ -55,3 +55,4 @@ def text_reply(msg):
 itchat.auto_login(enableCmdQR=True, hotReload=True)
 itchat.run()
 
+1
